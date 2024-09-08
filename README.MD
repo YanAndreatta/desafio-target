@@ -1,0 +1,1 @@
+O resultado da variável `SOMA` será 91. 
