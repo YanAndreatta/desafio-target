@@ -1,7 +1,7 @@
 
 # Prova Técnica - Target Sistemas
 
-# 1. Observe o trecho de código abaixo
+## 1. Observe o trecho de código abaixo
 
 int INDICE = 13, SOMA = 0, K = 0;
 Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
@@ -10,7 +10,7 @@ Ao final do processamento, qual será o valor da variável SOMA?
 
 **R: Ao final, o valor da variável `soma` será 91** 
 
-# 2. Dado a sequência de Fibonacci
+## 2. Dado a sequência de Fibonacci
 
 onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
 
@@ -18,7 +18,7 @@ onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores an
 
 * [💾 Código fibonacci](./is_fibonacci.py)
 
-# 3. Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne
+## 3. Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne
 
 * O menor valor de faturamento ocorrido em um dia do mês;
 * O maior valor de faturamento ocorrido em um dia do mês;
@@ -34,7 +34,7 @@ onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores an
 
 2. Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
-# 4. Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado
+## 4. Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado
 
 * SP – R$67.836,43
 * RJ – R$36.678,66
@@ -46,7 +46,7 @@ Escreva um programa na linguagem que desejar onde calcule o percentual de repres
 
 [💾 Código Percentual](./percentual.py)
 
-# 5 Escreva um programa que inverta os caracteres de um string
+## 5 Escreva um programa que inverta os caracteres de um string
 
 [💾 Código String](./inverter_caractere.py)
 
